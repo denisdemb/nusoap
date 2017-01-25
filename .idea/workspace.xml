@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f10d5ad-47bf-48aa-a8af-36b5011cdc82" name="Default" comment="" />
+    <ignored path="server.test_172.22.0.141.soap.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="lib/" />
+    <ignored path=".idea/deployment.xml" />
+    <ignored path=".idea/modules.xml" />
+    <ignored path=".idea/copyright/profiles_settings.xml" />
+    <ignored path=".idea/server.test_172.22.0.141.soap.iml" />
+    <ignored path=".idea/vcs.xml" />
+    <ignored path=".idea/webServers.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="server.test_172.22.0.141.soap" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="client.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2486">
+              <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client_test_old.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_test_old.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2310">
+              <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+              <folding>
+                <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+                <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+                <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client_test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2860">
+              <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
+              <folding>
+                <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+                <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+                <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="102" column="95" selection-start-line="102" selection-start-column="95" selection-end-line="102" selection-end-column="95" />
+              <folding>
+                <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+                <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+                <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+                <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+                <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+                <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+                <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+                <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+                <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+                <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+                <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+                <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+                <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+                <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+                <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+                <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+                <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+                <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;35ffc1d9-a804-49a4-915a-765d18d249bd&gt;/client.php" />
+        <option value="$PROJECT_DIR$/service.php" />
+        <option value="$PROJECT_DIR$/lib/class.wsdl.php" />
+        <option value="&lt;35ffc1d9-a804-49a4-915a-765d18d249bd&gt;/client_test.php" />
+        <option value="&lt;22a84cd0-bb9d-45f5-9f44-94db424a8e48&gt;/client.php" />
+        <option value="&lt;22a84cd0-bb9d-45f5-9f44-94db424a8e48&gt;/client_test.php" />
+        <option value="$PROJECT_DIR$/client.php" />
+        <option value="$PROJECT_DIR$/client_test_old.php" />
+        <option value="$PROJECT_DIR$/client_test.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TESTserver.test_172.22.0.141.soap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="268" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="296" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="298" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="972" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="290" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="289" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="290" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="965" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="SearchEverywhereHistoryKey" value="custom&#9;null&#9;null" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f10d5ad-47bf-48aa-a8af-36b5011cdc82" name="Default" comment="" />
+      <created>1477489407315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477489407315</updated>
+      <workItem from="1477489408413" duration="36000" />
+      <workItem from="1477489457599" duration="2828000" />
+      <workItem from="1477570169619" duration="3346000" />
+      <workItem from="1477573573831" duration="3390000" />
+      <workItem from="1478002732934" duration="4095000" />
+      <workItem from="1478066336445" duration="24000" />
+      <workItem from="1481716854991" duration="599000" />
+      <workItem from="1481785649863" duration="3004000" />
+      <workItem from="1482219642551" duration="20682000" />
+      <workItem from="1482312949269" duration="2104000" />
+      <workItem from="1482386662813" duration="670000" />
+      <workItem from="1482405165984" duration="7892000" />
+      <workItem from="1482415338047" duration="163000" />
+      <workItem from="1482415790103" duration="3568000" />
+      <workItem from="1482473842673" duration="19403000" />
+      <workItem from="1482734549033" duration="2536000" />
+      <workItem from="1482738135007" duration="19000" />
+      <workItem from="1482821318456" duration="21000" />
+      <workItem from="1485328882625" duration="48000" />
+      <workItem from="1485329002793" duration="603000" />
+    </task>
+    <task id="LOCAL-00001" summary="первый комит">
+      <created>1477571613771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1477571613771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="изменил файл client.php">
+      <created>1477573990918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477573990918</updated>
+    </task>
+    <task id="LOCAL-00003" summary="изменил снова  файл client.php">
+      <created>1477574941730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477574941730</updated>
+    </task>
+    <task id="LOCAL-00004" summary="изменил снова  файл client.php">
+      <created>1477575716650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477575716650</updated>
+    </task>
+    <task id="LOCAL-00005" summary="изменил снова  файл client.php">
+      <created>1477575997520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1477575997520</updated>
+    </task>
+    <task id="LOCAL-00006" summary="изменил снова  файл client.php">
+      <created>1477576262751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477576262751</updated>
+    </task>
+    <task id="LOCAL-00007" summary="изменил снова  файл client_test.php">
+      <created>1477576577439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1477576577439</updated>
+    </task>
+    <task id="LOCAL-00008" summary="изменил снова  файл client_test.php">
+      <created>1477576724919</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1477576724919</updated>
+    </task>
+    <task id="LOCAL-00009" summary="изменил снова  файл client_test.php">
+      <created>1478002869792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1478002869792</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75031000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17270789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1991342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21235102" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.110341154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первый комит" />
+    <MESSAGE value="изменил файл client.php" />
+    <MESSAGE value="изменил снова  файл client.php" />
+    <MESSAGE value="изменил снова  файл client_test.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменил снова  файл client_test.php" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="48" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2816">
+          <caret line="128" column="25" selection-start-line="128" selection-start-column="25" selection-end-line="128" selection-end-column="25" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="27" selection-start-line="129" selection-start-column="27" selection-end-line="129" selection-end-column="27" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="120" column="72" selection-start-line="120" selection-start-column="72" selection-end-line="120" selection-end-column="72" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="120" column="72" selection-start-line="120" selection-start-column="72" selection-end-line="120" selection-end-column="72" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="120" column="72" selection-start-line="120" selection-start-column="72" selection-end-line="120" selection-end-column="72" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19778">
+          <caret line="899" column="0" selection-start-line="899" selection-start-column="0" selection-end-line="899" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6c049c73-93bc-422f-b684-6af620fb5199/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/lib/class.wsdl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="2100" column="10" selection-start-line="2100" selection-start-column="10" selection-end-line="2100" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="18" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+          <folding>
+            <marker date="1482223557207" expanded="true" signature="7715:8471" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="10001:10577" placeholder="..." />
+            <marker date="1482223557207" expanded="true" signature="12558:13170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
+          <folding>
+            <marker date="1482737385867" expanded="true" signature="7625:8381" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="9820:10396" placeholder="..." />
+            <marker date="1482737385867" expanded="true" signature="12281:12893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="102" column="95" selection-start-line="102" selection-start-column="95" selection-end-line="102" selection-end-column="95" />
+          <folding>
+            <marker date="1482737423715" expanded="true" signature="23342:23419" placeholder="SELECT * FRO... WEBS" />
+            <marker date="1482737423715" expanded="true" signature="24676:24759" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="25539:25622" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26107:26155" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="26894:26965" placeholder="UPDATE WEBS " />
+            <marker date="1482737423715" expanded="true" signature="28043:28153" placeholder="INSERT INTO IM_LOGQ... " />
+            <marker date="1482737423715" expanded="true" signature="28764:28836" placeholder="SELECT c.cid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28764:28947" placeholder="SELECT c.cid... " />
+            <marker date="1482737423715" expanded="true" signature="28816:28835" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="28859:28931" placeholder="SELECT c.tid... tcr" />
+            <marker date="1482737423715" expanded="true" signature="28911:28930" placeholder="SELECT id FR... tids" />
+            <marker date="1482737423715" expanded="true" signature="33968:34279" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34293" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="33968:34316" placeholder="SELECT * FRO... *" />
+            <marker date="1482737423715" expanded="true" signature="34008:34243" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34378:34482" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="34501:34586" placeholder="SELECT * FRO... TABLE" />
+            <marker date="1482737423715" expanded="true" signature="35327:35435" placeholder="SELECT MAX(d... kljrl" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
